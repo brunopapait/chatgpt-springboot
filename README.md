@@ -27,7 +27,7 @@ Esse projeto foi elaborado [nesse vídeo](https://youtu.be/fC_OdD6zy-Y) que demo
 - [x] ChatGPT e OpenAI
 - [x] Criação da API
 - [x] Integração com OpenAI
-- [ ] Testes unitários
+- [x] Testes unitários
 - [x] Resultados
 
 ## 🚀 Como executar
